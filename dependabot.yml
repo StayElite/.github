@@ -9,6 +9,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # npm / pnpm / yarn
   - package-ecosystem: "npm"
@@ -18,6 +20,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # Docker
   - package-ecosystem: "docker"
@@ -27,6 +31,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # Go Modules
   - package-ecosystem: "gomod"
@@ -36,6 +42,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # Rust (Cargo)
   - package-ecosystem: "cargo"
@@ -45,6 +53,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # Python (pip)
   - package-ecosystem: "pip"
@@ -54,6 +64,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # Maven (Java)
   - package-ecosystem: "maven"
@@ -63,6 +75,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # Gradle (Java/Kotlin)
   - package-ecosystem: "gradle"
@@ -72,6 +86,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # NuGet (.NET)
   - package-ecosystem: "nuget"
@@ -81,6 +97,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
 
   # Terraform
   - package-ecosystem: "terraform"
@@ -90,3 +108,5 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore"
+    assignees:
+      - "NTDevLops"
