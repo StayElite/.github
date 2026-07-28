@@ -1,26 +1,39 @@
-<div align="center">
-  <h1>Stay Elite</h1>
-  <h3><em>Building elite software solutions, tools, and open-source projects.</em></h3>
-  
-  <p>
-    <a href="https://github.com/StayElite"><img src="https://img.shields.io/badge/github-StayElite-blue?style=for-the-badge&logo=google-chrome" alt="Website"></a>
-  </p>
-</div>
+# Stay Elite Code of Conduct
 
-<hr>
+## Our Pledge
 
-<h2>🚀 About Us</h2>
-<p>Welcome to <strong>Stay Elite</strong>! We are a community-driven organization dedicated to crafting high-performance, scalable, and beautifully designed software. Our goal is to push the boundaries of modern development and empower developers worldwide.</p>
+We as members, contributors, and leaders of **Stay Elite** pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-<h2>🛠️ What We Do</h2>
-<ul>
-  <li><strong>Open Source Libraries:</strong> Building robust tools that simplify complex development workflows.</li>
-  <li><strong>Web & Cloud Applications:</strong> Developing cutting-edge applications with optimal performance.</li>
-  <li><strong>Developer Community:</strong> Fostering collaboration, mentorship, and high standards of code craftsmanship.</li>
-</ul>
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community for all developers crafting high-performance, scalable software solutions.
 
-<h2>👥 Connect With Us</h2>
-<ul>
-  <li><strong>GitHub Organization:</strong> <a href="https://github.com/StayElite">github.com/StayElite</a></li>
-  <li><strong>Email:</strong> <a href="mailto:immortal.knight.king.0d@gmail.com">immortal.knight.king.0d@gmail.com</a></li>
-</ul>
+## Our Standards
+
+Examples of behavior that contribute to a positive environment for our community include:
+
+* Demonstrating empathy and kindness toward other people.
+* Being respectful of differing opinions, viewpoints, and experiences.
+* Giving and gracefully accepting constructive feedback.
+* Accepting responsibility and apologizing to those affected by our mistakes, learning from the experience.
+* Focusing on what is best not just for us as individuals, but for the overall community and our open-source projects.
+
+Examples of unacceptable behavior include:
+
+* The use of sexualized language or imagery, and sexual attention or advances of any kind.
+* Trolling, insulting or derogatory comments, and personal or political attacks.
+* Public or private harassment.
+* Publishing others' private information, such as a physical or email address, without their explicit permission.
+* Other conduct which could reasonably be considered inappropriate in a professional setting.
+
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+
+Stay Elite leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct.
+
+## Scope
+
+This Code of Conduct applies within all community spaces managed by Stay Elite, and also applies when an individual is officially representing the community in public spaces.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Stay Elite team at [immortal.knight.king.0d@gmail.com](mailto:immortal.knight.king.0d@gmail.com). All complaints will be reviewed and investigated promptly and fairly, and will result in a response that is deemed necessary and appropriate to the circumstances.
