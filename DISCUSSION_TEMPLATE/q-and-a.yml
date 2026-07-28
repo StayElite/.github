@@ -1,0 +1,32 @@
+title: ❓ Questions & Help
+labels:
+  - question
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Need help?
+
+        Ask your question here. The community and maintainers will do their best to help.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: Explain what you're trying to achieve.
+      placeholder: Ask your question...
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Tell us what you've already attempted.
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Screenshots, logs, or links (optional).

@@ -1,0 +1,47 @@
+# -----------------------------------------------------------------------------
+# CODEOWNERS
+#
+# This file defines the default code owners for repositories.
+# GitHub will automatically request reviews from the specified owners.
+#
+# Documentation:
+# https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+# -----------------------------------------------------------------------------
+
+# Default owner for the entire repository
+* @StayElite
+
+# -----------------------------------------------------------------------------
+# Documentation
+# -----------------------------------------------------------------------------
+
+*.md @StayElite
+/docs/ @StayElite
+
+# -----------------------------------------------------------------------------
+# GitHub Configuration
+# -----------------------------------------------------------------------------
+
+.github/ @StayElite
+
+# -----------------------------------------------------------------------------
+# Configuration Files
+# -----------------------------------------------------------------------------
+
+*.json @StayElite
+*.yaml @StayElite
+*.yml @StayElite
+*.toml @StayElite
+*.env.example @StayElite
+
+# -----------------------------------------------------------------------------
+# CI/CD
+# -----------------------------------------------------------------------------
+
+.github/workflows/ @StayElite
+
+# -----------------------------------------------------------------------------
+# License
+# -----------------------------------------------------------------------------
+
+LICENSE @StayElite

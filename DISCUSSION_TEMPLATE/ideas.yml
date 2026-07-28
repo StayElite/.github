@@ -1,0 +1,32 @@
+title: 💡 Ideas & Brainstorming
+labels:
+  - idea
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea for Stay Elite?
+
+        We'd love to hear it!
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your Idea
+      description: Describe your idea in detail.
+      placeholder: Share your proposal...
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Benefits
+      description: How would this improve the project or community?
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: Have you considered any alternatives?

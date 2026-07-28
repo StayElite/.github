@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/StayElite/.github/discussions
+    about: Ask questions, share ideas, or start a discussion with the community.
+
+  - name: 📧 Contact the Maintainers
+    url: mailto:immortal.knight.king.0d@gmail.com
+    about: Contact the Stay Elite maintainers directly for non-public inquiries.

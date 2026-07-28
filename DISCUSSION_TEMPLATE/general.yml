@@ -1,0 +1,20 @@
+title: 💬 General Discussion
+labels:
+  - discussion
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to the Stay Elite community!
+
+        Use this discussion for general conversations, feedback, announcements, or anything that doesn't fit another category.
+
+  - type: textarea
+    id: topic
+    attributes:
+      label: Discussion
+      description: What would you like to discuss?
+      placeholder: Start the conversation...
+    validations:
+      required: true

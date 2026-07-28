@@ -1,0 +1,39 @@
+title: 🚀 Project Showcase
+labels:
+  - showcase
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Built something with a Stay Elite project?
+
+        We'd love to see it!
+
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      placeholder: Awesome Project
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Tell us about your project.
+    validations:
+      required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or Demo
+      placeholder: https://github.com/...
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Share screenshots or images if available.
