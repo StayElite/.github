@@ -9,40 +9,40 @@
 # -----------------------------------------------------------------------------
 
 # Default owner for the entire repository
-* @StayElite
+* @NTDevLops
 
 # -----------------------------------------------------------------------------
 # Documentation
 # -----------------------------------------------------------------------------
 
-*.md @StayElite
-/docs/ @StayElite
+*.md @NTDevLops
+/docs/ @NTDevLops
 
 # -----------------------------------------------------------------------------
 # GitHub Configuration
 # -----------------------------------------------------------------------------
 
-.github/ @StayElite
+.github/ @NTDevLops
 
 # -----------------------------------------------------------------------------
 # Configuration Files
 # -----------------------------------------------------------------------------
 
-*.json @StayElite
-*.yaml @StayElite
-*.yml @StayElite
-*.toml @StayElite
-*.env.example @StayElite
+*.json @NTDevLops
+*.yaml @NTDevLops
+*.yml @NTDevLops
+*.toml @NTDevLops
+*.env.example @NTDevLops
 
 # -----------------------------------------------------------------------------
 # CI/CD
 # -----------------------------------------------------------------------------
 
-.github/workflows/ @StayElite
+.github/workflows/ @NTDevLops
 
 # -----------------------------------------------------------------------------
 # License & Policies
 # -----------------------------------------------------------------------------
 
-LICENSE @StayElite
-CODE_OF_CONDUCT.md @StayElite
+LICENSE @NTDevLops
+CODE_OF_CONDUCT.md @NTDevLops
